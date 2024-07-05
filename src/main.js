@@ -1,10 +1,10 @@
 
 // Генерация карточек
-import{createFilmCardTemplate} from './view/filmsCard.js';
+import{createFilmCardTemplate} from './view/film-card.js';
 import{createProfileTemplate} from './view/profile.js';
 import{createMenuTemplate} from './view/menu.js';
 import{createShowMoreButtonTemplate} from './view/snow-more-btn.js';
-import{createPopupTemplate} from './view/popap.js';
+import{createPopupTemplate} from './view/popup.js';
 import{createStatisticsTemplate} from './view/statistics.js'
 
 const FILMS_COUNT = 5;
